@@ -1,0 +1,24 @@
+{
+  "name": "202301-w2ch3-victor-granda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vegm92/202301-w2ch3-victor-granda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vegm92/202301-w2ch3-victor-granda/issues"
+  },
+  "homepage": "https://github.com/Vegm92/202301-w2ch3-victor-granda#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
